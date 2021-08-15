@@ -7,7 +7,6 @@ This repo contains the back-end code to manage an e-commerce site. This weeks ma
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributing)
 * [Video Walkthrough](#video-walkthrough)
 * [API Routes Screenshots](#api-routes)
 * [Questions](#questions)
